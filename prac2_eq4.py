@@ -1,10 +1,3 @@
-#Práctica 2 Equipo 4
-#Miembros
-    #Gama Flores Maximiliano
-    #Pérez Solano Emanuel
-    #Segoviano Rueda Sebastian Emmanuel
-    #Vilchis Orozco Jesús Damián
-
 def __init__(self, filas, columnas):
     # Constructor de la clase Matriz
     # filas: número de filas (n)
